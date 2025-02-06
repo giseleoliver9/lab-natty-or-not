@@ -8,11 +8,13 @@ Este projeto apresenta um podcast sobre a queda da leitura no Brasil. Utilizei o
 
 ## 🤖 Tecnologias Utilizadas
 NotebookLM: Utilizado para gerar e organizar o conteúdo do podcast.
+
 Prompt: Através de prompts específicos, ajudei a IA a desenvolver análises e resumos sobre o cenário da leitura no Brasil.
 
 
 ## 🧐 Processo de Criação
 Pesquisa Inicial: Comecei coletando informações de reportagens, estudos e artigos que abordam a queda da leitura no Brasil. A ideia foi entender o contexto e as diferentes perspectivas sobre o tema.
+
 Estruturação com NotebookLM: Usei o NotebookLM para estruturar as informações coletadas e criar um roteiro lógico para o podcast. Os prompts de comando foram essenciais para gerar insights e ajudar na composição da linguaguem em português e para que ficasse mais natural possível. 
 
 
